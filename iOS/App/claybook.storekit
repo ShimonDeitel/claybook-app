@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "6000000000",
+      "localizations": [],
+      "name": "Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "6000000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Cane recipe library with color-ratio photos for repeat builds",
+              "displayName": "Clay Book - Polymer Clay Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.polymerclaylog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "claybook_pro_monthly",
+          "subscriptionGroupID": "6000000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
